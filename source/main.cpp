@@ -10,6 +10,6 @@ int main()
 	cin >> name;
 	cout << "Welcome, ", name, "! Enter your age, please: ";
 	cin >> age;
-	cout << "Ypur age is ", age;
+	cout << "Your age is ", age;
 	return 0;
 }
